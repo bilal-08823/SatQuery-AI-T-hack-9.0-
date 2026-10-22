@@ -8,12 +8,23 @@ dependencies = [
     "accelerate>=1.14.0",
     "bitsandbytes>=0.50.2",
     "einops>=0.8.2",
+    "fastapi>=0.141.1",
     "geochat",
+    "google-genai>=2.23.0",
     "matplotlib>=3.11.1",
     "peft>=0.20.0",
     "pillow>=12.3.0",
+    "python-dotenv>=1.2.0",
+    "python-multipart>=0.0.20",
     "scikit-learn>=1.9.0",
     "sentencepiece>=0.2.2",
+<<<<<<< HEAD
+=======
+    "timm>=1.0.29",
+    "torch>=2.13.0",
+    "transformers>=4.31.0,<5",
+    "uvicorn>=0.52.4",
+>>>>>>> c3454979ac21ca7e12a37a19b8ef0ef4c5e82e62
 ]
 
 [tool.uv.workspace]

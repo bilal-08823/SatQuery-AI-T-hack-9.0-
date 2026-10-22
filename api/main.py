@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # FastAPI entry point
+=======
+>>>>>>> c3454979ac21ca7e12a37a19b8ef0ef4c5e82e62
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -23,4 +26,8 @@ def create_app() -> FastAPI:
     return app
 
 
+<<<<<<< HEAD
 app = create_app()
+=======
+app = create_app()
+>>>>>>> c3454979ac21ca7e12a37a19b8ef0ef4c5e82e62
