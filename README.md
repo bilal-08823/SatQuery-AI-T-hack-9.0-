@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # SatQuery AI — Simplified Architecture README
+=======
+# SatQuery-AI-T-hack-9.0- README
+>>>>>>> 53fa9b510820af3b35335103fab2c38908eafd70
 
 ## 1. What We Are Building
 
